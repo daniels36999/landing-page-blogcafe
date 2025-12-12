@@ -17,7 +17,7 @@ Este proyecto es una página web dedicada al café. En ella, los usuarios pueden
 * Página web básica para comprender los conceptos fundamentales.
 
 **Instrucciones de Uso:**  
-* Clona este repositorio: git clone https://github.com/daniels36999/PaguinaWeb_Proyecto_3.git  
+* Clona este repositorio: git clone https://github.com/daniels36999/landing-page-blogcafe.git  
 * Abre el archivo index.html en tu navegador.
 
 **Tecnologías Utilizadas:**  
